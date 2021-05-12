@@ -1892,8 +1892,8 @@ codemirror-graphql@^0.6.11:
     graphql-language-service-parser "0.0.15"
 
 codemirror@^5.26.0:
-  version "5.29.0"
-  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.29.0.tgz#e68de1350e2f0ce804a3930576d0ae318736e967"
+  version "5.61.0"
+  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.61.0.tgz#318e5b034a707207948b92ffc2862195e8fdb08e"
 
 coffee-loader@^0.7.2:
   version "0.7.3"
